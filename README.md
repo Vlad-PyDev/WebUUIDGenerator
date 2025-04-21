@@ -1,0 +1,2 @@
+# WebUUIDGenerator
+Simple UUID generator
